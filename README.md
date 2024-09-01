@@ -6,7 +6,7 @@ Melibatkan campur tangan teknologi untuk memilih sunscreen yang sesuai dengan ku
 ![login](assets/img/login.png)
 ![home](assets/img/home.png)
 ![admin](assets/img/admin.png)
-Untuk lihat tampilan dan informasi lainnya, cek ![admin](JURNAL SPK PEMILIHAN SUNSCREEN.docx)
+Untuk lihat tampilan dan informasi lainnya, cek [Document](JURNAL%20SPK%20PEMILIHAN%20SUNSCREEN.docx)
 # Anggota
 1. Muhammad Riza Aimar
 2. Gilang Patoni
